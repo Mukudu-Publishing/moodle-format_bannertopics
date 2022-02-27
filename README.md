@@ -1,5 +1,15 @@
-__Mukudu Publishing Code Repository__
+__Moodle Plugin Development By Example Course__
 
-Please select the relevant product branch for the code respository.
+black\mycourses
 
-#### NOT SUITABLE FOR PRODUCTION ENVIROMENTS ####
+# Block Plugin: My Courses #
+
+__About__
+
+An example of a block plugin developed for the course.
+
+__Description__
+
+The plugin creates a block that displays a user's courses in a Moodle block.
+
+#### NOT SUITABLE FOR A PRODUCTION SYSTEM ####
